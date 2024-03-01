@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+}
+.divisaoA {
+    background-color: #80321e;
+    width: 70%;
+    height: 300px;
+}
+
+.divisaoB {
+    background-color: #ff8336;
+    height: 45%;
+    width: 100%;
+}
+
+.text {
+    color: #3a3a21;
+    background-color: #e4ee86;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
+
+.divisaoD {
+    width: 70%;
+    height: 200px;
+    background-color: rgb(217, 117, 215);
+}
+
+.divisaoE {
+    width: 20%;
+    height: 200%;
+    background-color: #545cff9a;
+}
